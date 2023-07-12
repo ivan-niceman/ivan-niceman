@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://nice-dev.ru/" target="_blank">Ivan</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=30&pause=1000&color=5073DD&center=true&repeat=false&width=1024&lines=I'm+a+beginner+Frontend+Developer." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=30&pause=1000&color=5073DD&center=true&repeat=false&width=1024&lines=I'm+a+Junior+Frontend+Developer." alt="Typing SVG" /></a>
 
 <table>
   <tr>
@@ -18,7 +18,7 @@
 
 <image width="50px" src="https://www.svgrepo.com/show/353884/html-5.svg" alt="HTML5"> <image width="50px" src="https://www.svgrepo.com/show/353623/css-3.svg" alt="CSS3"> <image width="50px" src="https://www.svgrepo.com/show/373705/js-official.svg" alt="JS"> <image width="50px" src="https://www.svgrepo.com/show/452092/react.svg" alt="React"> <image width="50px" src="https://www.svgrepo.com/show/349474/php.svg" alt="PHP"> <image width="50px" src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="Bootstrap"> <image width="50px" src="https://www.svgrepo.com/show/452077/npm.svg" alt="NPM"> <image width="50px" src="https://www.svgrepo.com/show/354552/webpack.svg" alt="Webpack"> <image width="50px" src="https://www.svgrepo.com/show/448222/figma.svg" alt="Figma"> <image width="50px" src="https://www.svgrepo.com/show/512317/github-142.svg" alt="GitHub">
 
-##### I am dedicated to refining my skills, embracing challenges, and staying up-to-date with the latest trends in the ever-evolving frontend landscape.
+##### I am dedicated to refining my skills, embracing challenges, and staying up-to-date with the latest trends.
 
 ##### I love clean and readable code.
 
