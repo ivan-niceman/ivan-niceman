@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=30&pause=1000&color=5073DD&center=true&repeat=false&width=1024&lines=I'm+a+Frontend+Developer." alt="Typing SVG" /></a>
 
-<div style="text-align: center;">
+<div align="center">
   <img height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=ivan-niceman&hide_border=true&theme=tokyonight" alt="webDev's Github stats" />
   <img height="150px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ivan-niceman&hide_border=true&layout=compact&theme=tokyonight" />
 </div>
