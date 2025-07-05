@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://nice-dev.ru/" target="_blank">Hi there, I'm Ivan</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32px" width="32px"/></h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=30&pause=1000&color=5073DD&center=true&repeat=false&width=1024&lines=I'm+a+Frontend+Developer." alt="Typing SVG" /></a>
 
