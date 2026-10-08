@@ -5,7 +5,7 @@
 
 <div align="center">
   <img height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=ivan-niceman&hide_border=true&theme=tokyonight" alt="webDev's Github stats" />
-  <img height="150px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ivan-niceman&hide_border=true&layout=compact&theme=tokyonight" />
+  <!-- <img height="150px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ivan-niceman&hide_border=true&layout=compact&theme=tokyonight" /> -->
 </div>
 
 # 💻 Tech Stack:
